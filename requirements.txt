@@ -1,0 +1,5 @@
+python-docx>=0.8.11
+markdown>=3.3.0
+beautifulsoup4>=4.9.3
+pytest>=7.0.0
+pytest-cov>=4.0.0
